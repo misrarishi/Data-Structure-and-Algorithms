@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the problem solving and master Data St
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the problem solving and master Data St
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
