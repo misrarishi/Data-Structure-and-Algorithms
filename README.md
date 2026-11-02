@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the problem solving and master Data St
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the problem solving and master Data St
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
