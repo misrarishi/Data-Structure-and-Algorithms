@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the problem solving and master Data St
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
+| [0509-fibonacci-number](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -56,4 +57,16 @@ A collection of LeetCode questions to ace the problem solving and master Data St
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/misrarishi/Data-Structure-and-Algorithms/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
